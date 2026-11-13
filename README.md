@@ -63,3 +63,7 @@ The experiment covers:
 
 [View Python Implementation](experiments/gosmarter_report.py)
 
+### Open-Source Technology Comparison
+
+[View Technology Comparison](research/04-open-source-technology-comparison.md)
+
