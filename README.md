@@ -45,3 +45,21 @@ The repository will be updated with technical findings, library comparisons, rec
 This is an independently authored research project. It is not an official GoSmarter software product or a representation of its proprietary implementation.
 
 All examples and experiments will use public or synthetic information unless otherwise authorised.
+
+
+## Practical Experiments
+
+### Rectpack 2D Cutting Proof-of-Concept
+
+Developed a Python prototype using Rectpack to investigate rectangular steel plate cutting.
+
+The experiment covers:
+- Material utilisation and unused area
+- Successfully packed and unpacked components
+- Order completion
+- Changes in component dimensions
+
+[View Rectpack Research](research/03-rectpack-proof-of-concept.md)
+
+[View Python Implementation](experiments/gosmarter_report.py)
+
