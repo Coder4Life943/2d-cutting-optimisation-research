@@ -70,3 +70,7 @@ The experiment covers:
 ### Manufacturing Constraints and Production Planning
 
 [View Manufacturing Constraints Research](research/05-manufacturing-constraints.md)
+
+### Final Technical Recommendation and Development Roadmap
+
+[View Final Technical Recommendation](research/06-final-technical-recommendation.md)
