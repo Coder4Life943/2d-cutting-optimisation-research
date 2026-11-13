@@ -67,3 +67,6 @@ The experiment covers:
 
 [View Technology Comparison](research/04-open-source-technology-comparison.md)
 
+### Manufacturing Constraints and Production Planning
+
+[View Manufacturing Constraints Research](research/05-manufacturing-constraints.md)
